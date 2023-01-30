@@ -47,6 +47,10 @@ border-radius: 5px;
 }
 
 div.ducks {
+    background-image: url('ducks.jpg');
+    background-size: cover;
+    height: 400px;
+    width: 400px;
     text-align: center;
     display: block;
     margin: 20px auto;
